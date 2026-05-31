@@ -1,0 +1,5 @@
+Component: main
+Origin: KeibiSoft
+Label: KeibiDrop
+Architecture: amd64
+Description: KeibiDrop APT repository

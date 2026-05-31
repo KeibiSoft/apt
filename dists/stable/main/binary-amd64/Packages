@@ -1,0 +1,18 @@
+Package: keibidrop
+Version: 0.3.2
+Architecture: amd64
+Maintainer: KeibiSoft SRL <contact@keibisoft.com>
+Installed-Size: 80030
+Depends: libfuse2
+Suggests: fuse3
+Homepage: https://github.com/KeibiSoft/KeibiDrop
+Priority: optional
+Section: net
+Filename: pool/main/k/keibidrop/keibidrop_0.3.2_amd64.deb
+Size: 34558356
+SHA512: c64e25378ba2fe9204ee332112c9c46e94ccdf0cf74b65b4365efd04bdd6df8fdf30a2c5ef071f74a80f2dfea3210a4e80dd56dbaf1cf18ee99b54e2ef0343d7
+SHA256: 65eec757fea5c56c259e089e49643df61184e9fdf07c6930818dce7c93648340
+SHA1: 9d1565a9caa45e89b5385803dd35b25af5dbaf49
+MD5sum: 888e014e6f5b3a993182c55ed885fc4c
+Description: End-to-end encrypted peer-to-peer file sharing
+

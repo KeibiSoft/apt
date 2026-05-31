@@ -1,0 +1,23 @@
+Origin: KeibiSoft
+Label: KeibiDrop
+Codename: stable
+Date: Sun, 31 May 2026 05:43:15 UTC
+Architectures: amd64
+Components: main
+Description: KeibiDrop APT repository
+MD5Sum:
+ c648590e04517c489a6eced917ed6f16 673 main/binary-amd64/Packages
+ d359802de2e32969282fd7653b8a4562 476 main/binary-amd64/Packages.gz
+ 1d59ac0d595569d02bf60ac71843c642 109 main/binary-amd64/Release
+SHA1:
+ 146403ce3786d9d6540c04f0c92603e8712d7774 673 main/binary-amd64/Packages
+ 6820fc75b32419783939a624025a92507f47a25c 476 main/binary-amd64/Packages.gz
+ a2780db72fa1f46aea84f8f378513994a0c9e31a 109 main/binary-amd64/Release
+SHA256:
+ b76cde44ce1dec5e6ce9d5b55db2052f53c156090c11dcf53d3598ac2640d2de 673 main/binary-amd64/Packages
+ 54d2d41acce50f26b15e52dc6a340fee1a70049f18b26dcab5241e6dd7a32a57 476 main/binary-amd64/Packages.gz
+ f65b34fc7cd2a299923b528030748c92391fc47c08842f02877e36752ce1bdb5 109 main/binary-amd64/Release
+SHA512:
+ 49b3e368a40be19a9010d05f56342a30feabec91acf0fcd03edad734a25852ff7c5edd65541f288abe200e5d6c0a73c7586fc9fb7da35e685ec52b7694cbb0d2 673 main/binary-amd64/Packages
+ ef256c4e818856863548c89fd11399172bdd6991752573e035c488b9579702417530efb6b1696e734caa89feb5ecf940f2d12f20cf0fc3440c90150f0eec3d00 476 main/binary-amd64/Packages.gz
+ a663c9dffbf2d2d5b84d1a528f47c7b3558c0032bab6ea85211c033633b6ccdd0e4a8d42ede636aca66ebda650928b55158e266b8cee79c784980707f5630267 109 main/binary-amd64/Release
