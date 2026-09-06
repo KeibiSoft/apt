@@ -1,18 +1,18 @@
 Package: keibidrop
-Version: 0.4.4
+Version: 0.4.5
 Architecture: amd64
 Maintainer: KeibiSoft SRL <contact@keibisoft.com>
-Installed-Size: 111157
+Installed-Size: 111189
 Depends: libfuse3-3 | libfuse2t64 | libfuse2
 Recommends: libx11-6, libx11-xcb1, libxcb1, libxcursor1, libxi6, libxkbcommon0, libxkbcommon-x11-0, libwayland-client0, libwayland-egl1, libegl1, libgl1
 Homepage: https://github.com/KeibiSoft/KeibiDrop
 Priority: optional
 Section: net
-Filename: pool/main/k/keibidrop/keibidrop_0.4.4_amd64.deb
-Size: 45866418
-SHA512: 6057dd43b731b17a329db868385c633c135894b8804ae1081cdfbde245f4db6b82b350335f7391a59a6585b355e04bff29fb0370cd4b0003bf0de3d37486f390
-SHA256: d7a9764cd0432b0be82f0b0ca7c534178f2ec202c9b970c4dd998c3a4ac05d40
-SHA1: c7e2325fc007eb86dcb353416a89d05a4d34f7a2
-MD5sum: 240e3b41a9184c0a29a0124a0a895f1d
+Filename: pool/main/k/keibidrop/keibidrop_0.4.5_amd64.deb
+Size: 45882566
+SHA512: 944b5dbfe1e4ab4ac4757c7ba9a582ee5c01c5ab09bc2bdb74cb193e86e84f8062744f2066aefa23b2f49efea6f1fb401fe79c71507176af5905d51fa5e791e4
+SHA256: beace8855448c1185f6728bd59ff2c453fc6b779036c33beaa9c71fc6ea4af2d
+SHA1: cc2430b219191fbb40bc3ababa3db879cdfaa15c
+MD5sum: 359ddd5541083e4f304dc9587e91d0fb
 Description: End-to-end encrypted peer-to-peer file sharing
 
