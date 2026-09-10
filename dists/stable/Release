@@ -1,23 +1,23 @@
 Origin: KeibiSoft
 Label: KeibiDrop
 Codename: stable
-Date: Tue, 08 Sep 2026 12:27:56 UTC
+Date: Thu, 10 Sep 2026 10:28:27 UTC
 Architectures: amd64
 Components: main
 Description: KeibiDrop APT repository
 MD5Sum:
- 33f6d48c697f4d09e70695ace1f2beb3 838 main/binary-amd64/Packages
- aaba21c558d62ff77352030065766391 541 main/binary-amd64/Packages.gz
+ 1467f2daf6f26fbf6a13f8ac1c44e377 838 main/binary-amd64/Packages
+ 3ea52f78c8ab4b0b23bb481699137b02 542 main/binary-amd64/Packages.gz
  1d59ac0d595569d02bf60ac71843c642 109 main/binary-amd64/Release
 SHA1:
- 55a0c66c14baf71003ef9924f0da8973d3d62b71 838 main/binary-amd64/Packages
- c35503dbcb095d2d9cbf59633f33e6270994055b 541 main/binary-amd64/Packages.gz
+ 6a41dc30d1c8f965febec2d79d80f59486023bfd 838 main/binary-amd64/Packages
+ 9a34f859fe24e558f085b2d24a15be867018d641 542 main/binary-amd64/Packages.gz
  a2780db72fa1f46aea84f8f378513994a0c9e31a 109 main/binary-amd64/Release
 SHA256:
- 4bc68ea442d7fd8be71973f24433770cce1111a0c987532c3058952e5b93beeb 838 main/binary-amd64/Packages
- 4470bc82861925d3dc27039348d93485657ad5bf530b1e0d90f8bd280b52ccf5 541 main/binary-amd64/Packages.gz
+ 534c67e8e3bc23cb82e6e9ebcbc0c4e2541e82d603a44c39a553b684d8475224 838 main/binary-amd64/Packages
+ c027eef16c8cb70cd56cafde9078c2cf5b49ccbe552a00e8e3212ff9d1f7b6a0 542 main/binary-amd64/Packages.gz
  f65b34fc7cd2a299923b528030748c92391fc47c08842f02877e36752ce1bdb5 109 main/binary-amd64/Release
 SHA512:
- c5c052a32517ad101ed186086ef8a428cec6fa6cf95c5ad47be8f03384d9597a4ce57f893c4d20b9793b20dd09752755f447b580bfc45f2ed73b6a6d6675d018 838 main/binary-amd64/Packages
- b6cbdac07c9463072b34a816235a613147d8ae7f91bfb21e2e6c9d638e310034604181259da2361acde92ceffd5a3ef3bcb0eb31698b87be8349c1750da860be 541 main/binary-amd64/Packages.gz
+ a477226476cd2cdba240fc4d4c55ac3b497203d534aa2c5024ad699e1f56de417c4b8ca0f568ab20f7880807e7dc939f682ff05ca0f28a254aa5b566e6418a9f 838 main/binary-amd64/Packages
+ fddcfaf870138b3e851a0682656158c9bdc3b67dc4cfe2bc9e40f78736a4d7e31bd72bcdecdd65f8c51578ecbed3b7eadd4f9d03b4d0b175b7fbcd2b060b9c42 542 main/binary-amd64/Packages.gz
  a663c9dffbf2d2d5b84d1a528f47c7b3558c0032bab6ea85211c033633b6ccdd0e4a8d42ede636aca66ebda650928b55158e266b8cee79c784980707f5630267 109 main/binary-amd64/Release
